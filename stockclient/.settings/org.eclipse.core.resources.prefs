@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/interoperability/stocks/Stock.java=UTF-8
+encoding//src/com/interoperability/stocks/StockManagement.java=UTF-8
+encoding//src/com/interoperability/stocks/StockManagementService.java=UTF-8
+encoding//src/com/interoperability/stocks/StockManagementServiceLocator.java=UTF-8
+encoding//src/com/interoperability/stocks/StockManagementServiceSoapBindingStub.java=UTF-8
+encoding//src/com/interoperability/users/Stock.java=UTF-8
+encoding//src/com/interoperability/users/User.java=UTF-8
+encoding//src/com/interoperability/users/UserManagementService.java=UTF-8
+encoding//src/com/interoperability/users/UserManagementServiceService.java=UTF-8
+encoding//src/com/interoperability/users/UserManagementServiceServiceLocator.java=UTF-8
+encoding//src/com/interoperability/users/UserManagementServiceServiceSoapBindingStub.java=UTF-8
